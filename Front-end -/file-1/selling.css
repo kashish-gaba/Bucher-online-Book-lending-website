@@ -1,0 +1,91 @@
+body
+{
+    background-color: #D0D0D0;
+}
+.TopBar
+{
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #000000 0%, #2F2F2F 100%);
+}
+.TopBar .logo
+{
+    position: absolute;
+    width: 59.69px;
+    height: 43.86px;
+    left: 212px;
+    top: 18px;
+}   
+.topnav input[type=text]
+{
+    position: absolute;
+    width: 800px;
+    height: 37px;
+    left: 295px;
+    top: 22px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: 0px solid #ccc;
+}
+.add
+{
+    position: absolute;
+    width: 257px;
+    height: 40px;
+    left: 671px;
+    top: 120px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 42px;
+    color: #000000;
+    align-content: center;
+}
+.category
+{
+    position: absolute;
+    width: 321px;
+    height: 42px;
+    left: 329px;
+    top: 206px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
+    color: #000000;
+}
+/*.btn
+{
+    position: relative;
+    width: 500px;
+    height: 50px;
+    left: 550px;
+    top: 200px;
+    background-color : white;
+    border: black;
+}*/
+div .btn
+{
+    position: absolute;
+    width: 870px;
+    height: 71px;
+    left: 285px;
+    top: 267px;
+    color: black;
+    border-color: black;
+    background-color: white;
+    border-radius: 0;
+    text-align: left;
+    padding-left: 3rem;
+}
+.btn:hover
+{
+    color: white;
+    border-color: white;
+    background-color: #000000;
+}
